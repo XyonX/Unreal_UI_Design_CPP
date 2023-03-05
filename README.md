@@ -22,7 +22,7 @@ SWidget is the base class for all interactive Slate entities. SWidget's public i
 
   
 
-Major Child Classes of **SWidget**
+### Major Child Classes of **SWidget**
 
   
 
@@ -36,7 +36,7 @@ These two class are major UI Class , the SLeafWidget class is for single element
 
   
 
-- All element class directly inherits from Class **SWidget**
+### All element class directly inherits from Class **SWidget**
 
 - SLeafWidget
 
@@ -54,7 +54,7 @@ These two class are major UI Class , the SLeafWidget class is for single element
 
   
 
-**SLeafWidget :**
+### **SLeafWidget :**
 
   
 
@@ -66,7 +66,7 @@ Leaf widgets are typically simple, self-contained widgets that don't have any ch
 
   
 
-Major Leaf Widget Classes
+### Major Leaf Widget Classes
 
   
 
@@ -92,7 +92,7 @@ Major Leaf Widget Classes
 
   
 
-**SCompoundWidget :**
+### **SCompoundWidget :**
 
   
 
@@ -104,7 +104,7 @@ This class used for creating more complex element block which could contain many
 
   
 
-**Example :** SExampleCompoundElement :
+###**Example :** SExampleCompoundElement :
 
   
 
